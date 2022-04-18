@@ -19,8 +19,8 @@
 
 #endif
 
-#ifndef _HOLBERTON_H
-#define _HOLBERTON_H
+#ifndef _MAIN_H
+#define _MAIN_H
 
 /**
  * struct print_buffer - structer for the write buffer.
