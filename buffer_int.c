@@ -1,10 +1,6 @@
 #include "main.h"
 
-/**
- * buf_init - Function that create a buffer at a default size of 1024
- *
- * Return: a pointer to a pointer.
- */
+
 buffer *buf_new()
 {
 	buffer *buf;
@@ -19,12 +15,7 @@ buffer *buf_new()
 
 	return (buf);
 }
-/**
- * buf_custom - Function that create a buffer at a custom
- * @size_uint: the desired size of the custom buffer.
- *
- * Return: a pointer to a buffer
- */
+
 buffer *buf_custom(size_t size_uint)
 {
 	buffer *buf;
@@ -39,10 +30,7 @@ buffer *buf_custom(size_t size_uint)
 
 	return (buf);
 }
-/**
- * buf_end - frees up the buffer.
- * @buf: pointer to a buffer
- */
+
 void buf_end(buffer *buf)
 {
 	if (!buf)
