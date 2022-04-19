@@ -128,15 +128,4 @@ file: [write_op2_funcs.c](./write_op2_funcs.c)
 [back to files](#Files)
 
 
-# change log
-
-## 0.0.1 - 2018-19-10
-- add Martin Branch
-- Git flow initialized to this project.
-
-
-
-# Authors
-
-- Martin Smith - [Github](http://github.com/Ostoyae) , [Twitter](https://twitter.com/@_Ostoyae)
-- Samie Azad - [Github](https://github.com/sazad44), 
+Athoured by Ambrose and Iyvonne
