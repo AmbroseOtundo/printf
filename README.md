@@ -6,10 +6,6 @@ is a Low-Level Programming project writen in C language.
 ## Table of Context
 <!-- toc -->
 
-- [Files](#Files)
-- [change log](#change-log)
-  * [0.0.1 - 2018-19-10](#001---2018-19-10)
-- [Authors](#Authors)
 
 <!-- tocstop -->
 # Files
